@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.css"],"names":[],"mappings":"AAAA,YACE,oBAAa,CAAb,YAAa,CACb,0BAAmB,CAAnB,kBACF","file":"main.fb6afd92.chunk.css","sourcesContent":[".tabs__list {\n  display: flex;\n  flex-direction: row;\n}\n"]}
